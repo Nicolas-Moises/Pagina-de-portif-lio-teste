@@ -72,6 +72,9 @@ header{
 .button:hover{
     background-color: #bb9d7a;
 }
+.button .active{
+    background-color: #bb9d7a;
+}
 .banner{
     height:calc(100vh - 100px);
     background-color: #333;
@@ -1057,3 +1060,4 @@ header{
         margin-bottom: 20px;
         
     }
+}
